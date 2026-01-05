@@ -6,8 +6,8 @@ const timeline = [
 		items: [
 			{
 				title: 'Full Stack Developer',
-				place: '@Wimetrix',
-				timePeriod: '2022 - Present',
+				place: 'Tashkent, Uzbekistan',
+				timePeriod: '2024 - Present',
 				description: (
 					<ul>
 						<li>
@@ -30,13 +30,12 @@ const timeline = [
 		items: [
 			{
 				title: 'Full Stack Developer',
-				place: 'House of Professionals (HOP)',
-				timePeriod: '2021 - 2022',
+				place: 'COURSERA',
+				timePeriod: '2024 - 2025',
 				description: (
 					<ul>
 						<li>
-							Earned a Full Stack Development certification from the House of
-							Professional Developers.
+							Earned a Full Stack Development certification from the COURSERA.
 						</li>
 						<li>
 							Awarded for securing the top position in class, demonstrating
@@ -51,9 +50,9 @@ const timeline = [
 		title: 'Education',
 		items: [
 			{
-				title: 'Bachelor of Science in Computer Science (BSCS)',
-				place: 'Virtual University of Pakistan',
-				timePeriod: '2022 - Present',
+				title: 'Bachelor of General MedicineScience (MBBS)',
+				place: 'Tashkent State Medical University',
+				timePeriod: '2024 - Present',
 				description: '',
 			},
 		],
@@ -75,7 +74,7 @@ export const AboutMe = () => {
 			<div>
 				<div className='intro'>
 					<p style={{ marginTop: '20px' }}>
-						👋 Hey, I'm Abdullah Iqbal, a Full Stack Developer.
+						👋 Hey, I'm Islomjon Izbasarov, a Full Stack Developer.
 					</p>
 					<p>
 						I've been working with <strong>React</strong> and{' '}

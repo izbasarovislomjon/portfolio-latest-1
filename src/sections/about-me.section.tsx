@@ -12,8 +12,8 @@ const timeline = [
 					<ul>
 						<li>
 							Contributed significantly to the development of main project{' '}
-							<strong>Sooperwizer</strong>, a pivotal project for automating and
-							optimizing textile processes.
+							<strong>Med-UZ AI</strong>, a key platform for enhancing healthcare services through
+							AI-driven insights, medical articles, and diagnostic support.
 						</li>
 						<li>
 							Designed and developed multiple interactive data visualization
